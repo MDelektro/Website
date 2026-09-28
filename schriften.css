@@ -1,0 +1,11 @@
+/* Hanken Grotesk von Alfredo Marco Pradil, SIL Open Font License 1.1.
+   Die Schriftdatei liegt auf diesem Server. Es besteht keine Verbindung
+   zu Google Fonts oder einem anderen Anbieter. */
+
+@font-face{
+  font-family:'Hanken Grotesk';
+  font-style:normal;
+  font-weight:100 900;
+  font-display:swap;
+  src:url("hanken-grotesk-latin.woff2") format("woff2");
+}
